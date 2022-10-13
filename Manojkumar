@@ -1,0 +1,14 @@
+echo "# SPSGP-109596-Virtual-Internship---Android-Application-Development-Using-Kotlin" >> README.md
+
+git init
+
+git add - A
+
+git commit -m "first commit"
+
+git branch -M main
+
+git remote add origin https://github.com/smartinternz02/SPSGP-109596-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
+
+git push -u origin main
+
