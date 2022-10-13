@@ -1,15 +1,43 @@
-# SPSGP-109596-Virtual-Internship---Android-Application-Development-Using-Kotlin
-Virtual Internship - Android Application Development Using Kotlin
-echo "# SPSGP-109596-Virtual-Internship---Android-Application-Development-Using-Kotlin" >> README.md
+Water Me - Starter Code
+==================================
 
-git init
+Starter code for the fourth independent project for Android Basics in Kotlin. This project pairs
+with Unit 6 of Android Basics in Kotlin
 
-git add README.md
+Introduction
+------------
 
-git commit -m "first commit"
+This is the starter code for the Water Me app project. This project is an opportunity for you to
+demonstrate the concepts you learned in Unit 6 of Android Basics in Kotlin.
 
-git branch -M main
+Pre-requisites
+--------------
 
-git remote add origin https://github.com/smartinternz02/SPSGP-109596-Virtual-Internship---Android-Application-Development-Using-Kotlin.git
+- Complete Unit 1 of Android Basics in Kotlin
+- Complete Project 1: Lemonade App
+- Complete Unit 2 of Android Basics in Kotlin
+- Complete Project 2: Dogglers
+- Complete Unit 3 of Android Basics in Kotlin
+- Complete Project 3: Lunch Tray
+- Complete Unit 4 of Android Basics in Kotlin
+- Complete Project 4: Amphibians
+- Complete Unit 5 of Android Basics in Kotlin
+- Complete Project 5: Forage
+- Complete Unit 6 of Android Basics in Kotlin
 
-git push -u origin main
+Getting Started
+---------------
+
+1. Download the starter code
+2. Open the project in Android Studio
+3. Complete the project in accordance with the app requirements
+
+
+Tasks
+---------------
+
+Tips
+----
+
+- Use the provided tests to ensure your app is running as expected
+- DO NOT ALTER THE PROVIDED TESTS
